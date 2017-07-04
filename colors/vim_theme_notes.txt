@@ -1,0 +1,104 @@
+Vim Theme Notes
+
+Guardian
+Type:
+Notes nice slate grey background
+needs comments ctermbg none, \n ctermbg none
+focus:  XHTML and CSS editing, however you can use it for Ruby and JavaScript development as well
+
+grb256
+Notes: colors look like desert in a perl file, check this using a ruby script 
+focus: Ruby on Rails development
+
+Codeschool
+Notes: color scheme to mimic the CodeSchool theme used in their Rails Best Practises course
+looks great in gvim but not in vim
+
+Distinguished
+New name: Distinguished256
+Type: 256 colors
+Notes: Looks good in gvim/vim.  on text files, black background, text is white. high contrast. Otherwise pretty good charcoal background with subtle greens (good). Perl variables could be brighter than strings. Has an interesting color map, check that technique out.  text is white
+
+
+Freya
+Type:
+Notes: One of the best, good balance of earth tones, some green needs replacing
+
+
+Mayansmoke
+Type:gvim
+Notes: Outstanding
+
+Baycomb
+Type: gvim
+Notes: some nice subtle colors with background light
+
+Newspaper
+Type: gvim
+Notes: light, but not enough contrast. good string, quotes, brackets etc all in near black.  Good new line and regex in light blue
+control structures in redare a little heavy/bold/dark
+
+Impact
+Type:256 
+Notes good low contrast grey on grey.  Excellent  text only
+
+Blackdust
+Type: gvim
+Notes: excellent grey on grey, but needs some tweeks, Good: varables lighter than functions etc. quotes and text in a nice pastel red.    Bad: control block key words etc are cyan (bad). Maybe swap the cyan for the red and make text dk grey
+
+Ambient:
+Type 256
+Notes based on ubuntu ambient theme, white yellow orange on charcoal bkground.  Good: white control blocks
+
+Lodestone
+Type gvim
+Notes great light green and light purple color. nice charcoal background excellent dark comments. (perl only) otherwise too much bright green
+
+Zmrok
+Type: gvim
+Notes: excellent earth tones on black background. Replace ambience oranges with these colors and it would be great. Bad: bright green
+
+Stackoveflow
+Type: gvim
+Notes: one of the best light themes
+
+
+Less*
+Type:8/16
+Notes: Nice minimal supposed to be based on proper syntax rule i.e function names not keywords highlighted (see syntax lib referenced at http://www.vim.org/ but that is definately not implemented here
+
+Vydark*
+Type: gvim
+Notes:  nice dark minimal colors.  Bad: some ugly pastel gree
+
+vydark256**
+Type: vim
+Notes this is a theme I am working on based on vydark and converted to 256 colors with vim-tocterm, then changed to reflect the colors I am looking for.n
+
+Warm_grey
+Type: gvim
+Notes: nice very subdude, good  red, Bad: underlined control structures and italic comments
+
+
+Strange**
+Type: 256
+Notes: Very minimal grey on black, proper highlighting that emphasizes varables and function names over keywords. Needs plain text greyed instead of white. Needs TODO color changed.  Overall probably the best as it need very few changes.
+
+Lucid
+Type: 256
+Notes: grey on grey, has syntax for php, js, css and html in same file but color choices not so good. Keep this and change colors to something darker etc..
+
+
+Jhlight
+Type:
+Notes: med grey blue background with black test and some subtle syntax highlighting.  maybe to high contrast for long sessions.  too much dark green (comments) ba clash with blue background.
+
+Stackoverflow
+Type: gvim
+Notes: Very nice conservative text on lt blue background, one of the nicest looking light themes, very fancy current cursor line syntax highlighting but no visable curosr position this must be a bug.
+
+brookstream
+Type:
+Notes:  nice blue and gray, to much cyan though
+
+
